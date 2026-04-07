@@ -76,7 +76,7 @@ Key business questions answered:
 ## 📈 Power BI Dashboard
 
 ### Dashboard Preview
-![Power BI Dashboard](https://github.com/your-username/your-repo-name/assets/dashboard.png)
+![Power BI Dashboard](https://github.com/rohit2k5/Customer-Behavior-Analysis/blob/main/Screenshot%202026-04-07%20183625.png)
 
 ---
 
