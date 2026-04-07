@@ -98,15 +98,6 @@ Key business questions answered:
 
 ---
 
-## 📂 Project Structure
-├── data/
-├── notebooks/
-├── sql/
-├── dashboard.png
-├── README.md
-
-
----
 
 ## 🚀 How to Run
 
